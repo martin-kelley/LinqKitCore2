@@ -11,6 +11,16 @@
     <PlatformTarget>AnyCPU</PlatformTarget>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="linqkitcore2.1.0.0.nupkg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="linqkitcore2.1.0.0.nupkg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
 
 
   <ItemGroup>

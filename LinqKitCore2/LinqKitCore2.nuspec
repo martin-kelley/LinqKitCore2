@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>martinkelley.imagine.linqkitcore2</id>
+    <version>1.0</version>
+    <title>LinkKitCore2</title>
+    <authors>martink</authors>
+    <owners>martink</owners>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>dot net core 2.0 version of LinqKit</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>core2.0 linq</tags>
+  </metadata>
+</package>
